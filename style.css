@@ -1,0 +1,31 @@
+﻿body {
+    background-color: white;
+}
+
+
+
+.container {
+    font-size: 23px;
+    font-family: monospace;
+    background-color: black;
+    text-align: center;
+    height: 80px;
+    position:fixed;
+    top:0;
+    right:0;
+    left:0;
+
+}
+div.logo{
+    float:left;
+    padding-top:25px;
+    padding-left: 120px;
+    color:#33d4ff;
+
+}
+
+img{
+    border-radius:8px;
+    position:fixed;
+}
+
